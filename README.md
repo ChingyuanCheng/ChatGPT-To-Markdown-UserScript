@@ -1,5 +1,9 @@
 ## Chatgpt dialog Export to Markdown File
 
+Install the script with one click/马上安装 📦  
+   [![Install Link](https://img.shields.io/badge/Install_Script-GreasyFork-green.svg)](https://greasyfork.org/zh-CN/scripts/529601)
+
+
 **简介：** 
 
 这个用户脚本旨在帮助用户将 ChatGPT 网站上的聊天记录导出为标准的 Markdown 格式，使其更容易阅读和编辑。

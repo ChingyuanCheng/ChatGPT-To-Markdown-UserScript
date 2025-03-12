@@ -2,7 +2,9 @@
 
 **简介：** 
 
-这个 Chrome 插件旨在帮助用户将 ChatGPT 网站上的聊天记录导出为标准的 Markdown 格式，使其更容易阅读和编辑。
+这个用户脚本旨在帮助用户将 ChatGPT 网站上的聊天记录导出为标准的 Markdown 格式，使其更容易阅读和编辑。
+这个脚本改自同名chrome插件：https://github.com/Marverlises/ChatGPT-To-Markdown-google-plugin/tree/main
+
 
 **功能：**
 

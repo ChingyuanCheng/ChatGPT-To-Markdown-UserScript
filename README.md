@@ -20,7 +20,10 @@
 -------------------------------------
 **Introduction:** 
 
-This Chrome extension aims to help users export chat records from the ChatGPT website into standard Markdown format, making them easier to read and edit.
+This UserScript aims to help users export chat records from the ChatGPT website into standard Markdown format, making them easier to read and edit.
+
+This UserScript is based on a chrome extension project with the same name: https://github.com/Marverlises/ChatGPT-To-Markdown-google-plugin/tree/main
+
 
 **Features:** 
 
